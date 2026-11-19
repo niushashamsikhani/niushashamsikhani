@@ -2,16 +2,9 @@
 
 <img src="assets/header-animated.svg" alt="Niusha Shamsikhani — Industrial Engineering × Machine Learning" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3200&pause=1200&color=C9A27A&center=true&vCenter=true&width=900&height=40&lines=%E2%9A%99%EF%B8%8F+Turning+messy+industrial+data+into+decisions+that+work;%F0%9F%8F%AD+Building+AI+systems+on+real+automotive+data;%F0%9F%91%81%EF%B8%8F+OCR+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+LLMs;%F0%9F%8E%93+Seeking+graduate+research+opportunities+in+ML" alt="Typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3200&pause=1200&color=C9A27A&center=true&vCenter=true&width=1000&height=60&lines=%E2%9A%99%EF%B8%8F+Turning+messy+industrial+data+into+decisions+that+work;%F0%9F%8F%AD+Building+AI+systems+on+real+automotive+data;%F0%9F%91%81%EF%B8%8F+OCR+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+LLMs;%F0%9F%8E%93+Seeking+graduate+research+opportunities+in+ML" alt="Typing tagline"/>
 
 <br/>
-
-<a href="mailto:niusha.s2015@gmail.com"><img src="https://img.shields.io/badge/Email-B87333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/niushashamsikhani"><img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.youtube.com/@niushashamsikhani7242"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<img src="https://img.shields.io/badge/Open%20to-Graduate%20Research-58A6FF?style=for-the-badge" alt="Open to graduate research"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B87333,50:1F6FEB,100:8957E5&height=3" width="100%" alt=""/>
 
@@ -211,6 +204,7 @@ Through industry-facing research projects, I saw first-hand how much of real-wor
 <br/>
 
 <a href="mailto:niusha.s2015@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-B87333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/niushashamsikhani"><img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.youtube.com/@niushashamsikhani7242"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <br/><br/>
