@@ -161,34 +161,42 @@ Through industry-facing research projects, I saw first-hand how much of real-wor
   <tr>
     <td width="50%" align="center" valign="top">
       <b>⚙️ CORE TECHNOLOGY</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-1F6FEB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-1F6FEB?style=flat-square&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-1F6FEB?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-1F6FEB?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-1F6FEB?style=flat-square&logo=vite&logoColor=white"/>
     </td>
     <td width="50%" align="center" valign="top">
-      <b>🧠 AI & DATA SCIENCE</b><br/><br/>
-      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OCR-B87333?style=flat-square"/>
-      <img src="https://img.shields.io/badge/NLP-8957E5?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Computer%20Vision-1F6FEB?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LLMs-8957E5?style=flat-square"/>
+      <b>🗄️ DATABASE & BACKEND</b><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-B87333?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-B87333?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Database%20Design-B87333?style=flat-square"/>
+      <img src="https://img.shields.io/badge/REST%20API-B87333?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <b>🛠️ TOOLS</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <b>🧠 AI & DATA SCIENCE</b><br/><br/>
+      <img src="https://img.shields.io/badge/pandas-8957E5?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-8957E5?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-8957E5?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OCR-8957E5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/NLP-8957E5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Computer%20Vision-8957E5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLMs-8957E5?style=flat-square"/>
     </td>
     <td width="50%" align="center" valign="top">
+      <b>🛠️ TOOLS</b><br/><br/>
+      <img src="https://img.shields.io/badge/Git-1F6FEB?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-1F6FEB?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-1F6FEB?style=flat-square&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
       <b>🧊 3D DESIGN & VISUALIZATION</b><br/><br/>
-      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Blender-8957E5?style=flat-square&logo=blender&logoColor=white"/>
     </td>
   </tr>
 </table>
