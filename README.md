@@ -136,7 +136,7 @@ Through industry-facing research projects, I saw first-hand how much of real-wor
 
 <br/><br/>
 
-<img src="assets/damage-assessment.gif" alt="Multimodal damage assessment workflow" width="75%"/>
+<img src="assets/damage-assessment-taped.svg" alt="Multimodal damage assessment workflow: from user-submitted data to cost estimation" width="90%"/>
 
 <br/><br/>
 
