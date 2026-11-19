@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.jpg" alt="Niusha Shamsikhani — Industrial Engineering × Machine Learning" width="100%"/>
+<img src="assets/header-animated.svg" alt="Niusha Shamsikhani — Industrial Engineering × Machine Learning" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=17&duration=3200&pause=1200&color=C9A27A&center=true&vCenter=true&width=900&height=40&lines=%E2%9A%99%EF%B8%8F+Turning+messy+industrial+data+into+decisions+that+work;%F0%9F%8F%AD+Building+AI+systems+on+real+automotive+data;%F0%9F%91%81%EF%B8%8F+OCR+%C2%B7+NLP+%C2%B7+Computer+Vision+%C2%B7+LLMs;%F0%9F%8E%93+Seeking+graduate+research+opportunities+in+ML" alt="Typing tagline"/>
 
@@ -201,19 +201,6 @@ Through industry-facing research projects, I saw first-hand how much of real-wor
 </table>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B87333,50:1F6FEB,100:8957E5&height=3" width="100%" alt=""/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=100000&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=GITHUB+STATS" alt="GITHUB STATS"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=C9A27A&icon_color=58A6FF&text_color=C9D1D9&ring_color=8957E5" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0a0e27&title_color=C9A27A&text_color=C9D1D9" alt="Top languages"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B87333,50:1F6FEB,100:8957E5&height=3" width="100%" alt=""/>
 
