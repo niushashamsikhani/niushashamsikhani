@@ -6,9 +6,9 @@
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-B87333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-8957E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:niusha.s2015@gmail.com"><img src="https://img.shields.io/badge/Email-B87333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/niushashamsikhani"><img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.youtube.com/@niushashamsikhani7242"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <img src="https://img.shields.io/badge/Open%20to-Graduate%20Research-58A6FF?style=for-the-badge" alt="Open to graduate research"/>
 
 <br/><br/>
@@ -125,7 +125,7 @@ Through industry-facing research projects, I saw first-hand how much of real-wor
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME/PROSTREAM_REPO"><img src="https://img.shields.io/badge/ProStream%20Repository-→-1F6FEB?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/niushashamsikhani/ProStream-Showcase"><img src="https://img.shields.io/badge/ProStream%20Repository-→-1F6FEB?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
@@ -148,7 +148,7 @@ Through industry-facing research projects, I saw first-hand how much of real-wor
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME/DAMAGE_ASSESSMENT_REPO"><img src="https://img.shields.io/badge/Damage%20Assessment%20Repository-→-8957E5?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/niushashamsikhani/Vehicle-Damage-Assessment-Showcase"><img src="https://img.shields.io/badge/Damage%20Assessment%20Repository-→-8957E5?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
@@ -210,7 +210,8 @@ Through industry-facing research projects, I saw first-hand how much of real-wor
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email%20Me-B87333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:niusha.s2015@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-B87333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.youtube.com/@niushashamsikhani7242"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 <br/><br/>
 
